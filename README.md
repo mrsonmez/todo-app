@@ -13,3 +13,7 @@ React, Vite, AutoAnimate, UUID
 # Thanks to
 
 [Dmitry Sharabin](https://d12n.me/) for project
+
+# Screenshot
+
+![screenshot](app.png)
